@@ -1,0 +1,67 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=XF? NewDesignator=XF1
+Add Component: Footprint Not Found 100uh
+Add Pin To Net: Unknown Pin: Pin DA1-1
+Add Pin To Net: Unknown Pin: Pin DA1-2
+Add Pin To Net: Unknown Pin: Pin DA1-3
+Add Pin To Net: Unknown Pin: Pin DA1-5
+Add Pin To Net: Unknown Pin: Pin DA1-6
+Add Pin To Net: Unknown Pin: Pin DA1-7
+Add Pin To Net: Unknown Pin: Pin DA1-8
+Add Pin To Net: Unknown Pin: Pin DA2-1
+Add Pin To Net: Unknown Pin: Pin DA2-2
+Add Pin To Net: Unknown Pin: Pin DA2-3
+Add Pin To Net: Unknown Pin: Pin DA2-4
+Add Pin To Net: Unknown Pin: Pin DA2-5
+Add Pin To Net: Unknown Pin: Pin DA2-6
+Add Pin To Net: Unknown Pin: Pin DA2-7
+Add Pin To Net: Unknown Pin: Pin DA2-8
+Add Pin To Net: Unknown Pin: Pin DA2-9
+Add Pin To Net: Unknown Pin: Pin DA2-10
+Add Pin To Net: Unknown Pin: Pin DA2-11
+Add Pin To Net: Unknown Pin: Pin DA2-12
+Add Pin To Net: Unknown Pin: Pin DA2-13
+Add Pin To Net: Unknown Pin: Pin DA2-14
+Add Pin To Net: Unknown Pin: Pin DD1-1
+Add Pin To Net: Unknown Pin: Pin DD1-2
+Add Pin To Net: Unknown Pin: Pin DD1-3
+Add Pin To Net: Unknown Pin: Pin DD1-4
+Add Pin To Net: Unknown Pin: Pin DD1-5
+Add Pin To Net: Unknown Pin: Pin DD1-6
+Add Pin To Net: Unknown Pin: Pin DD1-7
+Add Pin To Net: Unknown Pin: Pin DD1-8
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD2-4
+Add Pin To Net: Unknown Pin: Pin VD2-5
+Add Pin To Net: Unknown Pin: Pin VD2-6
+Add Pin To Net: Unknown Pin: Pin VD2-8
+Add Pin To Net: Unknown Pin: Pin VT1-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT1-3
+Added Pin To Net: NetName=NetVT1_1 Pin=XF1-A2
+Added Pin To Net: NetName=NetVT1_1 Pin=XF1-A3
+Added Pin To Net: NetName=GND Pin=XF1-A15
+Added Pin To Net: NetName=GND Pin=XF1-A20
+Added Pin To Net: NetName=GND Pin=XF1-A23
+Added Pin To Net: NetName=GND Pin=XF1-A24
+Added Pin To Net: NetName=GND Pin=XF1-A27
+Added Pin To Net: NetName=GND Pin=XF1-A28
+Added Pin To Net: NetName=GND Pin=XF1-A31
+Change Net Name : Old Net Name=NetXF?_B1 New Net Name=NetXF1_B1
+Add Class Member: Failed to add class member : Component DA1 LMR33630
+Add Class Member: Failed to add class member : Component DA2 ICM-42688-P
+Add Class Member: Failed to add class member : Component DD1 MAX3051EKA
+Add Class Member: Failed to add class member : Component L1 *
+Add Class Member: Failed to add class member : Component VD2 SP721
+Add Class Member: Failed to add class member : Component VT1 *

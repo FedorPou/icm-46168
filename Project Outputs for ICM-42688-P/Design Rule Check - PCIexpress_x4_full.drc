@@ -1,0 +1,561 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Admin\Desktop\Разработки\AltiumProjects\Hydra\ICM-датчик\PCIexpress_x4_full.PcbDoc
+Date     : 14.10.2026
+Time     : 20:35:35
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: F.Cu-GND
+   Polygon named: F.Cu-+12V
+   Polygon named: B.Cu-GND
+   Polygon named: B.Cu-+12V
+   Polygon named: In1.Cu-GND
+   Polygon named: In2.Cu-GND
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-1.975mm,10.925mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (12mm,7.45mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,106.13mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,106.13mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,106.13mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,16.6mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,16.6mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (261.77mm,16.6mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,9.35mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,9.35mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,9.35mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,94.75mm) on Edge.Cuts And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,94.75mm) on Edge.Cuts And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (-37.65mm,94.75mm) on Edge.Cuts And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.075mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Polygon Region (4 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-10(487.805mm,-5.089mm) on F.Cu And Pad DD2-11(487.805mm,-5.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-10(487.805mm,-5.089mm) on F.Cu And Pad DD2-9(487.805mm,-4.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-100(489.53mm,1.136mm) on F.Cu And Pad DD2-99(490.03mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-11(487.805mm,-5.589mm) on F.Cu And Pad DD2-12(487.805mm,-6.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-12(487.805mm,-6.089mm) on F.Cu And Pad DD2-13(487.805mm,-6.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-13(487.805mm,-6.589mm) on F.Cu And Pad DD2-14(487.805mm,-7.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-14(487.805mm,-7.089mm) on F.Cu And Pad DD2-15(487.805mm,-7.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-18(487.805mm,-9.089mm) on F.Cu And Pad DD2-19(487.805mm,-9.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-19(487.805mm,-9.589mm) on F.Cu And Pad DD2-20(487.805mm,-10.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-20(487.805mm,-10.089mm) on F.Cu And Pad DD2-21(487.805mm,-10.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-22(487.805mm,-11.089mm) on F.Cu And Pad DD2-23(487.805mm,-11.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-26(489.53mm,-14.314mm) on F.Cu And Pad DD2-27(490.03mm,-14.314mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-27(490.03mm,-14.314mm) on F.Cu And Pad DD2-28(490.53mm,-14.314mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-28(490.53mm,-14.314mm) on F.Cu And Pad DD2-29(491.03mm,-14.314mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-49(501.03mm,-14.314mm) on F.Cu And Pad DD2-50(501.53mm,-14.314mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-5(487.805mm,-2.589mm) on F.Cu And Pad DD2-6(487.805mm,-3.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-51(503.255mm,-12.589mm) on F.Cu And Pad DD2-52(503.255mm,-12.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-52(503.255mm,-12.089mm) on F.Cu And Pad DD2-53(503.255mm,-11.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-53(503.255mm,-11.589mm) on F.Cu And Pad DD2-54(503.255mm,-11.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-54(503.255mm,-11.089mm) on F.Cu And Pad DD2-55(503.255mm,-10.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-55(503.255mm,-10.589mm) on F.Cu And Pad DD2-56(503.255mm,-10.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-6(487.805mm,-3.089mm) on F.Cu And Pad DD2-7(487.805mm,-3.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-60(503.255mm,-8.089mm) on F.Cu And Pad DD2-61(503.255mm,-7.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-61(503.255mm,-7.589mm) on F.Cu And Pad DD2-62(503.255mm,-7.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-71(503.255mm,-2.589mm) on F.Cu And Pad DD2-72(503.255mm,-2.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-72(503.255mm,-2.089mm) on F.Cu And Pad DD2-73(503.255mm,-1.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-73(503.255mm,-1.589mm) on F.Cu And Pad DD2-74(503.255mm,-1.089mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-74(503.255mm,-1.089mm) on F.Cu And Pad DD2-75(503.255mm,-0.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-76(501.53mm,1.136mm) on F.Cu And Pad DD2-77(501.03mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-8(487.805mm,-4.089mm) on F.Cu And Pad DD2-9(487.805mm,-4.589mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-94(492.53mm,1.136mm) on F.Cu And Pad DD2-95(492.03mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-95(492.03mm,1.136mm) on F.Cu And Pad DD2-96(491.53mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-96(491.53mm,1.136mm) on F.Cu And Pad DD2-97(491.03mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad DD2-98(490.53mm,1.136mm) on F.Cu And Pad DD2-99(490.03mm,1.136mm) on F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A1(0.48mm,4.056mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.205mm < 0.254mm) Between Pad XF1-A1(0.48mm,4.056mm) on B.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.205mm < 0.254mm) Between Pad XF1-A1(0.48mm,4.056mm) on B.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A10(9.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A11(10.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.145mm < 0.254mm) Between Pad XF1-A11(10.48mm,3.556mm) on B.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.145mm < 0.254mm) Between Pad XF1-A11(10.48mm,3.556mm) on B.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A12(13.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.105mm < 0.254mm) Between Pad XF1-A12(13.48mm,3.556mm) on B.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.105mm < 0.254mm) Between Pad XF1-A12(13.48mm,3.556mm) on B.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A13(14.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A14(15.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A16(17.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A17(18.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A18(19.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A19(20.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A2(1.48mm,3.556mm) on B.Cu And Polygon Region (0 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.13mm < 0.254mm) Between Pad XF1-A2(1.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A21(22.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A22(23.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A25(26.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A26(27.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A29(30.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A3(2.48mm,3.556mm) on B.Cu And Polygon Region (0 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.17mm < 0.254mm) Between Pad XF1-A3(2.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A30(31.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A32(33.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.245mm < 0.254mm) Between Pad XF1-A32(33.48mm,3.556mm) on B.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.245mm < 0.254mm) Between Pad XF1-A32(33.48mm,3.556mm) on B.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A4(3.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A5(4.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A6(5.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A7(6.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A8(7.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-A9(8.48mm,3.556mm) on B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B1(0.48mm,3.556mm) on F.Cu And Polygon Region (0 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.205mm < 0.254mm) Between Pad XF1-B1(0.48mm,3.556mm) on F.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.205mm < 0.254mm) Between Pad XF1-B1(0.48mm,3.556mm) on F.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B10(9.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B11(10.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.145mm < 0.254mm) Between Pad XF1-B11(10.48mm,3.556mm) on F.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.145mm < 0.254mm) Between Pad XF1-B11(10.48mm,3.556mm) on F.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B12(13.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.105mm < 0.254mm) Between Pad XF1-B12(13.48mm,3.556mm) on F.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.105mm < 0.254mm) Between Pad XF1-B12(13.48mm,3.556mm) on F.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B14(15.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B15(16.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B17(18.48mm,4.056mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B19(20.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B2(1.48mm,3.556mm) on F.Cu And Polygon Region (0 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B2(1.48mm,3.556mm) on F.Cu And Track (1.5mm,3.5mm)(1.5mm,6.125mm) on F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B20(21.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B21(22.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B22(23.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B23(24.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B24(25.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B25(26.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B26(27.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B27(28.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B28(29.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B29(30.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B3(2.48mm,3.556mm) on F.Cu And Polygon Region (0 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B30(31.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B31(32.48mm,4.056mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad XF1-B32(33.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.245mm < 0.254mm) Between Pad XF1-B32(33.48mm,3.556mm) on F.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.245mm < 0.254mm) Between Pad XF1-B32(33.48mm,3.556mm) on F.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.13mm < 0.254mm) Between Pad XF1-B4(3.48mm,3.556mm) on F.Cu And Polygon Region (0 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B5(4.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B6(5.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B8(7.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad XF1-B9(8.48mm,3.556mm) on F.Cu And Polygon Region (4 hole(s)) F.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (0 hole(s)) B.Cu And Polygon Region (12 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (0 hole(s)) F.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (0 hole(s)) F.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.15mm < 0.254mm) Between Polygon Region (0 hole(s)) F.Cu And Track (3.5mm,3.5mm)(3.5mm,6.125mm) on F.Cu 
+   Violation between Clearance Constraint: (0.125mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Region (0 hole(s)) B.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (17.25mm,9.625mm)(17.25mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (17.25mm,9.625mm)(17.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (17.5mm,3.5mm)(17.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (17.5mm,5.75mm)(17.8mm,6.05mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (17.8mm,6.05mm)(17.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (18.2mm,6.05mm)(18.2mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (18.2mm,6.05mm)(18.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (18.2mm,9.075mm)(18.75mm,9.625mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (18.5mm,3.5mm)(18.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (18.75mm,9.625mm)(18.75mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (22.25mm,9.625mm)(22.25mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (22.25mm,9.625mm)(22.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (22.5mm,3.5mm)(22.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (22.5mm,5.75mm)(22.8mm,6.05mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (22.8mm,6.05mm)(22.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (23.2mm,6.05mm)(23.2mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (23.2mm,6.05mm)(23.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (23.2mm,9.075mm)(23.75mm,9.625mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (23.5mm,3.5mm)(23.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (23.75mm,9.625mm)(23.75mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (26.25mm,9.625mm)(26.25mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (26.25mm,9.625mm)(26.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (26.5mm,3.5mm)(26.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (26.5mm,5.75mm)(26.8mm,6.05mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (26.8mm,6.05mm)(26.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (27.2mm,6.05mm)(27.2mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (27.2mm,6.05mm)(27.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (27.2mm,9.075mm)(27.75mm,9.625mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (27.5mm,3.5mm)(27.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (27.75mm,9.625mm)(27.75mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (30.25mm,9.625mm)(30.25mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (30.25mm,9.625mm)(30.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (30.5mm,3.5mm)(30.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (30.5mm,5.75mm)(30.8mm,6.05mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (30.8mm,6.05mm)(30.8mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0.008mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (31.2mm,6.05mm)(31.2mm,9.075mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (31.2mm,6.05mm)(31.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (31.2mm,9.075mm)(31.75mm,9.625mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (31.5mm,3.5mm)(31.5mm,5.75mm) on B.Cu 
+   Violation between Clearance Constraint: (0mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (31.75mm,9.625mm)(31.75mm,10.212mm) on B.Cu 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (12 hole(s)) B.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.125mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Region (0 hole(s)) In1.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In1.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.125mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Region (0 hole(s)) In2.Cu 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-0.15mm,0.5mm)(-0.15mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (11.05mm,0.5mm)(11.05mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-11.8mm,4.5mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (12.95mm,0.5mm)(12.95mm,7.45mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (266.85mm,111.15mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-3.8mm,4.5mm)(-3.8mm,10.925mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-30.15mm,12.75mm)(-11.8mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-30.15mm,4.5mm)(-30.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (34.15mm,0.5mm)(34.15mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (34.15mm,12.75mm)(266.853mm,12.75mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,111.15mm)(266.85mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,4.5mm)(-30.15mm,4.5mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+   Violation between Clearance Constraint: (0.006mm < 0.254mm) Between Polygon Region (4 hole(s)) In2.Cu And Track (-45.15mm,4.5mm)(-45.15mm,111.15mm) on Edge.Cuts 
+Rule Violations :267
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-1(399.899mm,650.8mm) on F.Cu And Pad C11-1(405.524mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1-1(386.56mm,651.793mm) on F.Cu And Pad C10-1(399.899mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C10-2(399.899mm,652.25mm) on F.Cu And Pad C11-2(406.974mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad R8-1(395.491mm,652.287mm) on F.Cu And Pad C10-2(399.899mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-1(405.524mm,652.287mm) on F.Cu And Pad C1-1(410.604mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-1(410.604mm,652.287mm) on F.Cu And Pad C3-1(414.922mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C11-2(406.974mm,652.287mm) on F.Cu And Pad C13-2(427.839mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net VCC_LMR Between Pad C1-2(412.054mm,652.287mm) on F.Cu And Pad C3-2(416.372mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C12-1(380.468mm,650.8mm) on F.Cu And Pad D1-1(386.56mm,651.793mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S1-2(376.531mm,652.381mm) on F.Cu [Unplated] And Pad C12-1(380.468mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net RST Between Pad C12-2(380.468mm,652.25mm) on F.Cu And Pad R8-2(396.941mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net RST Between Pad S1-1(376.531mm,645.081mm) on F.Cu [Unplated] And Pad C12-2(380.468mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1(427.839mm,650.8mm) on F.Cu And Pad C15-1(433.427mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R5-1(423.558mm,652.287mm) on F.Cu And Pad C13-1(427.839mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C13-2(427.839mm,652.25mm) on F.Cu And Pad C15-2(433.427mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C14-1(388.215mm,325.299mm) on F.Cu And Pad C18-1(393.803mm,325.299mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad C14-2(388.215mm,326.749mm) on F.Cu And Pad ZQ1-1(399.899mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(433.427mm,650.8mm) on F.Cu And Pad C16-1(439.015mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C15-2(433.427mm,652.25mm) on F.Cu And Pad C16-2(439.015mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-1(439.015mm,650.8mm) on F.Cu And Pad C17-1(444.603mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C16-2(439.015mm,652.25mm) on F.Cu And Pad C17-2(444.603mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-1(444.603mm,650.8mm) on F.Cu And Pad C19-1(450.191mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C17-2(444.603mm,652.25mm) on F.Cu And Pad C19-2(450.191mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-1(393.803mm,325.299mm) on F.Cu And Pad ZQ1-3(399.899mm,324.486mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetC18_2 Between Pad C18-2(393.803mm,326.749mm) on F.Cu And Pad ZQ1-2(401.749mm,324.486mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-1(450.191mm,650.8mm) on F.Cu And Pad C20-1(455.779mm,650.8mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C19-2(450.191mm,652.25mm) on F.Cu And Pad C20-2(455.779mm,652.25mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C20-1(455.779mm,650.8mm) on F.Cu And Pad C21-1(461.658mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C20-2(455.779mm,652.25mm) on F.Cu And Pad C21-2(463.108mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1(366.662mm,652.287mm) on F.Cu And Pad C7-1(370.98mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +5V_OUT Between Pad C2-2(368.112mm,652.287mm) on F.Cu And Pad D1-3(386.56mm,647.193mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1(404.725mm,325.299mm) on F.Cu And Pad HL2-2(414.885mm,325.401mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad ZQ1-3(401.749mm,326.786mm) on F.Cu And Pad C22-1(404.725mm,325.299mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad D1-2(392.41mm,649.493mm) on F.Cu And Pad C22-2(404.725mm,326.749mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C22-2(404.725mm,326.749mm) on F.Cu And Pad DD2-100(489.53mm,1.136mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-1(414.922mm,652.287mm) on F.Cu And Pad C4-1(419.24mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net VCC_LMR Between Pad C3-2(416.372mm,652.287mm) on F.Cu And Pad C4-2(420.69mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-1(419.24mm,652.287mm) on F.Cu And Pad R5-1(423.558mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net VCC_LMR Between Pad C4-2(420.69mm,652.287mm) on F.Cu And Pad VD1-2(434.65mm,326.532mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C6-1(366.662mm,326.786mm) on F.Cu And Pad C8-1(370.98mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C7-1(370.98mm,652.287mm) on F.Cu And Pad S1-2(376.531mm,652.381mm) on F.Cu [Unplated] 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad C7-2(372.43mm,652.287mm) on F.Cu And Pad D1-2(386.56mm,649.493mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C8-1(370.98mm,326.786mm) on F.Cu And Pad C9-1(375.298mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +5V_OUT Between Pad C8-2(372.43mm,326.786mm) on F.Cu And Pad C9-2(376.748mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +5V_OUT Between Pad C9-2(376.748mm,326.786mm) on F.Cu And Pad R6-2(381.066mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad D1-2(386.56mm,649.493mm) on F.Cu And Pad D1-2(392.41mm,649.493mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad D1-2(392.41mm,649.493mm) on F.Cu And Pad R8-1(395.491mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +5V_OUT Between Pad R6-2(381.066mm,326.786mm) on F.Cu And Pad D1-3(386.56mm,647.193mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DD2-20(487.805mm,-10.089mm) on F.Cu And Pad DD2-10(487.805mm,-5.089mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DD2-10(487.805mm,-5.089mm) on F.Cu And Pad DD2-99(490.03mm,1.136mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-6(487.805mm,-3.089mm) on F.Cu And Pad DD2-100(489.53mm,1.136mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-19(487.805mm,-9.589mm) on F.Cu And Pad DD2-11(487.805mm,-5.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-11(487.805mm,-5.589mm) on F.Cu And Pad DD2-6(487.805mm,-3.089mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetC18_2 Between Pad ZQ1-2(401.749mm,324.486mm) on F.Cu And Pad DD2-12(487.805mm,-6.089mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad ZQ1-1(399.899mm,326.786mm) on F.Cu And Pad DD2-13(487.805mm,-6.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net RST Between Pad R8-2(396.941mm,652.287mm) on F.Cu And Pad DD2-14(487.805mm,-7.089mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-21(487.805mm,-10.589mm) on F.Cu And Pad DD2-19(487.805mm,-9.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad VT2-3(484.358mm,-7.935mm) on F.Cu And Pad DD2-19(487.805mm,-9.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DD2-20(487.805mm,-10.089mm) on F.Cu And Pad DD2-27(490.03mm,-14.314mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-22(487.805mm,-11.089mm) on F.Cu And Pad DD2-21(487.805mm,-10.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-22(487.805mm,-11.089mm) on F.Cu And Pad DD2-28(490.53mm,-14.314mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-28(490.53mm,-14.314mm) on F.Cu And Pad DD2-50(501.53mm,-14.314mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net +3.3V_OUT Between Pad DD2-50(501.53mm,-14.314mm) on F.Cu And Pad DD2-75(503.255mm,-0.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad XP1-2(456.414mm,323.611mm) on Multi-Layer And Pad DD2-72(503.255mm,-2.089mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net SWCLK Between Pad XP1-3(456.414mm,321.071mm) on Multi-Layer And Pad DD2-76(501.53mm,1.136mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetDD2_9 Between Pad R7-2(441.391mm,326.786mm) on F.Cu And Pad DD2-9(487.805mm,-4.589mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetHL1_1 Between Pad HL1-1(424.918mm,326.901mm) on F.Cu And Pad R4-1(444.259mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R1-1(420.764mm,326.786mm) on F.Cu And Pad HL1-2(424.918mm,325.401mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad HL1-2(424.918mm,325.401mm) on F.Cu And Pad R9-2(431.739mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetHL2_1 Between Pad HL2-1(414.885mm,326.901mm) on F.Cu And Pad R7-1(439.941mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad HL2-2(414.885mm,325.401mm) on F.Cu And Pad R1-1(420.764mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetR1_2 Between Pad R1-2(422.214mm,326.786mm) on F.Cu And Pad VD1-1(437.03mm,326.532mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net CAN_N Between Pad XF1-B6(5.48mm,3.556mm) on F.Cu And Pad R2-1(410.604mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net CAN_P Between Pad XF1-B5(4.48mm,3.556mm) on F.Cu And Pad R2-2(412.054mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetR1_2 Between Pad VD1-1(437.03mm,326.532mm) on F.Cu And Pad R3-1(448.577mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net VCC_LMR Between Pad R4-2(445.709mm,326.786mm) on F.Cu And Pad R3-2(450.027mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net VCC_LMR Between Pad VD1-2(434.65mm,326.532mm) on F.Cu And Pad R4-2(445.709mm,326.786mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net FB Between Pad R6-1(379.616mm,326.786mm) on F.Cu And Pad R5-2(425.008mm,652.287mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetR9_1 Between Pad R9-1(430.289mm,326.786mm) on F.Cu And Pad VT2-1(479.778mm,-7.935mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetVT2_2 Between Pad XP1-1(456.414mm,326.151mm) on Multi-Layer And Pad VT2-2(482.068mm,-1.285mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad XF1-A15(16.48mm,3.556mm) on B.Cu And Pad XF1-B16(17.48mm,3.556mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetVT1_1 Between Pad XF1-A2(1.48mm,3.556mm) on B.Cu And Pad XF1-A3(2.48mm,3.556mm) on B.Cu 
+   Violation between Un-Routed Net Constraint: Net NetXF1_B1 Between Pad XF1-B1(0.48mm,3.556mm) on F.Cu And Pad XF1-B2(1.48mm,3.556mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net NetXF1_B1 Between Pad XF1-B2(1.48mm,3.556mm) on F.Cu And Pad XF1-B3(2.48mm,3.556mm) on F.Cu 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad ZQ1-3(399.899mm,324.486mm) on F.Cu And Pad ZQ1-3(401.749mm,326.786mm) on F.Cu 
+Rule Violations :85
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (B.Cu-+12V) on B.Cu 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (B.Cu-GND) on B.Cu 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (F.Cu-+12V) on F.Cu 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (F.Cu-GND) on F.Cu 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (In1.Cu-GND) on In1.Cu 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (In2.Cu-GND) on In2.Cu 
+Rule Violations :6
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Track (1.5mm,3.5mm)(1.5mm,6.125mm) on F.Cu Actual Width = 0.089mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.288mm,12.856mm)(15.288mm,13.5mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.288mm,12.856mm)(15.8mm,12.344mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.5mm,3.5mm)(15.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.5mm,5.75mm)(15.8mm,6.05mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.8mm,6.05mm)(15.8mm,12.344mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.2mm,12.325mm)(16.712mm,12.838mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.2mm,6.05mm)(16.2mm,12.325mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.2mm,6.05mm)(16.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.5mm,3.5mm)(16.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (16.712mm,12.838mm)(16.712mm,13.5mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.25mm,9.625mm)(17.25mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.25mm,9.625mm)(17.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.5mm,3.5mm)(17.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.5mm,5.75mm)(17.8mm,6.05mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (17.8mm,6.05mm)(17.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.2mm,6.05mm)(18.2mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.2mm,6.05mm)(18.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.2mm,9.075mm)(18.75mm,9.625mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.5mm,3.5mm)(18.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.75mm,9.625mm)(18.75mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.288mm,9.587mm)(20.288mm,10.25mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.288mm,9.587mm)(20.8mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.5mm,3.5mm)(20.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.5mm,5.75mm)(20.8mm,6.05mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.8mm,6.05mm)(20.8mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.2mm,6.05mm)(21.2mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.2mm,6.05mm)(21.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.2mm,9.075mm)(21.712mm,9.587mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.5mm,3.5mm)(21.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.712mm,9.587mm)(21.712mm,10.25mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.25mm,9.625mm)(22.25mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.25mm,9.625mm)(22.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.5mm,3.5mm)(22.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.5mm,5.75mm)(22.8mm,6.05mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (22.8mm,6.05mm)(22.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (23.2mm,6.05mm)(23.2mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (23.2mm,6.05mm)(23.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (23.2mm,9.075mm)(23.75mm,9.625mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (23.5mm,3.5mm)(23.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (23.75mm,9.625mm)(23.75mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.288mm,12.856mm)(24.288mm,13.5mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.288mm,12.856mm)(24.8mm,12.344mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.5mm,3.5mm)(24.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.5mm,5.75mm)(24.8mm,6.05mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.8mm,6.05mm)(24.8mm,12.344mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.2mm,12.325mm)(25.712mm,12.838mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.2mm,6.05mm)(25.2mm,12.325mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.2mm,6.05mm)(25.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.5mm,3.5mm)(25.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (25.712mm,12.838mm)(25.712mm,13.5mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.25mm,9.625mm)(26.25mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.25mm,9.625mm)(26.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.5mm,3.5mm)(26.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.5mm,5.75mm)(26.8mm,6.05mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (26.8mm,6.05mm)(26.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.2mm,6.05mm)(27.2mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.2mm,6.05mm)(27.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.2mm,9.075mm)(27.75mm,9.625mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.5mm,3.5mm)(27.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (27.75mm,9.625mm)(27.75mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.287mm,9.587mm)(28.287mm,10.25mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.287mm,9.587mm)(28.8mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.5mm,3.5mm)(28.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.5mm,5.75mm)(28.8mm,6.05mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.8mm,6.05mm)(28.8mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.2mm,6.05mm)(29.2mm,9.075mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.2mm,6.05mm)(29.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.2mm,9.075mm)(29.712mm,9.587mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.5mm,3.5mm)(29.5mm,5.75mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (29.712mm,9.587mm)(29.712mm,10.25mm) on F.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (3.5mm,3.5mm)(3.5mm,6.125mm) on F.Cu Actual Width = 0.7mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.25mm,9.625mm)(30.25mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.25mm,9.625mm)(30.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.5mm,3.5mm)(30.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.5mm,5.75mm)(30.8mm,6.05mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (30.8mm,6.05mm)(30.8mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.2mm,6.05mm)(31.2mm,9.075mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.2mm,6.05mm)(31.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.2mm,9.075mm)(31.75mm,9.625mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.5mm,3.5mm)(31.5mm,5.75mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (31.75mm,9.625mm)(31.75mm,10.212mm) on B.Cu Actual Width = 0.2mm, Target Width = 0.254mm
+Rule Violations :82
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C10-1(399.899mm,650.8mm) on F.Cu And Pad C10-2(399.899mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C1-1(410.604mm,652.287mm) on F.Cu And Pad C1-2(412.054mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C11-1(405.524mm,652.287mm) on F.Cu And Pad C11-2(406.974mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C12-1(380.468mm,650.8mm) on F.Cu And Pad C12-2(380.468mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C13-1(427.839mm,650.8mm) on F.Cu And Pad C13-2(427.839mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C14-1(388.215mm,325.299mm) on F.Cu And Pad C14-2(388.215mm,326.749mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C15-1(433.427mm,650.8mm) on F.Cu And Pad C15-2(433.427mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C16-1(439.015mm,650.8mm) on F.Cu And Pad C16-2(439.015mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C17-1(444.603mm,650.8mm) on F.Cu And Pad C17-2(444.603mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C18-1(393.803mm,325.299mm) on F.Cu And Pad C18-2(393.803mm,326.749mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C19-1(450.191mm,650.8mm) on F.Cu And Pad C19-2(450.191mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C20-1(455.779mm,650.8mm) on F.Cu And Pad C20-2(455.779mm,652.25mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C2-1(366.662mm,652.287mm) on F.Cu And Pad C2-2(368.112mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C21-1(461.658mm,652.287mm) on F.Cu And Pad C21-2(463.108mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C22-1(404.725mm,325.299mm) on F.Cu And Pad C22-2(404.725mm,326.749mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C3-1(414.922mm,652.287mm) on F.Cu And Pad C3-2(416.372mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C4-1(419.24mm,652.287mm) on F.Cu And Pad C4-2(420.69mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C5-1(383.934mm,326.786mm) on F.Cu And Pad C5-2(385.384mm,326.786mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C6-1(366.662mm,326.786mm) on F.Cu And Pad C6-2(368.112mm,326.786mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C7-1(370.98mm,652.287mm) on F.Cu And Pad C7-2(372.43mm,652.287mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C8-1(370.98mm,326.786mm) on F.Cu And Pad C8-2(372.43mm,326.786mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad C9-1(375.298mm,326.786mm) on F.Cu And Pad C9-2(376.748mm,326.786mm) on F.Cu [F.Mask] Mask Sliver [0.247mm]
+Rule Violations :22
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D1-1(386.56mm,651.793mm) on F.Cu And Track (387.935mm,646.143mm)(387.935mm,652.843mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D1-2(386.56mm,649.493mm) on F.Cu And Track (387.935mm,646.143mm)(387.935mm,652.843mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D1-2(392.41mm,649.493mm) on F.Cu And Track (391.035mm,646.143mm)(391.035mm,652.843mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D1-3(386.56mm,647.193mm) on F.Cu And Track (387.935mm,646.143mm)(387.935mm,652.843mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL1-1(424.918mm,326.901mm) on F.Cu And Track (424.518mm,326.101mm)(424.518mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL1-1(424.918mm,326.901mm) on F.Cu And Track (425.318mm,326.101mm)(425.318mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL1-2(424.918mm,325.401mm) on F.Cu And Track (424.518mm,326.101mm)(424.518mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL1-2(424.918mm,325.401mm) on F.Cu And Track (424.668mm,324.701mm)(425.168mm,324.701mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL1-2(424.918mm,325.401mm) on F.Cu And Track (425.318mm,326.101mm)(425.318mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL2-1(414.885mm,326.901mm) on F.Cu And Track (414.485mm,326.101mm)(414.485mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL2-1(414.885mm,326.901mm) on F.Cu And Track (415.285mm,326.101mm)(415.285mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL2-2(414.885mm,325.401mm) on F.Cu And Track (414.485mm,326.101mm)(414.485mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL2-2(414.885mm,325.401mm) on F.Cu And Track (414.635mm,324.701mm)(415.135mm,324.701mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad HL2-2(414.885mm,325.401mm) on F.Cu And Track (415.285mm,326.101mm)(415.285mm,326.201mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Pad S1-1(376.531mm,645.081mm) on F.Cu And Track (374.631mm,645.631mm)(375.731mm,645.631mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Pad S1-1(376.531mm,645.081mm) on F.Cu And Track (377.331mm,645.631mm)(378.431mm,645.631mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Pad S1-2(376.531mm,652.381mm) on F.Cu And Track (374.631mm,651.831mm)(375.731mm,651.831mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Pad S1-2(376.531mm,652.381mm) on F.Cu And Track (377.331mm,651.831mm)(378.431mm,651.831mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Pad VD1-1(437.03mm,326.532mm) on F.Cu And Track (436.69mm,325.882mm)(436.69mm,325.982mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Pad VD1-1(437.03mm,326.532mm) on F.Cu And Track (436.69mm,327.082mm)(436.69mm,327.182mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Pad VD1-2(434.65mm,326.532mm) on F.Cu And Track (434.99mm,325.882mm)(434.99mm,325.982mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Pad VD1-2(434.65mm,326.532mm) on F.Cu And Track (434.99mm,327.082mm)(434.99mm,327.182mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-1(456.414mm,326.151mm) on Multi-Layer And Track (455.144mm,325.389mm)(455.144mm,326.913mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-1(456.414mm,326.151mm) on Multi-Layer And Track (455.652mm,324.881mm)(457.176mm,324.881mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-1(456.414mm,326.151mm) on Multi-Layer And Track (455.652mm,327.421mm)(457.176mm,327.421mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-1(456.414mm,326.151mm) on Multi-Layer And Track (457.684mm,325.389mm)(457.684mm,326.921mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-2(456.414mm,323.611mm) on Multi-Layer And Track (455.144mm,322.849mm)(455.144mm,324.373mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-2(456.414mm,323.611mm) on Multi-Layer And Track (455.652mm,322.341mm)(457.176mm,322.341mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-2(456.414mm,323.611mm) on Multi-Layer And Track (455.652mm,324.881mm)(457.176mm,324.881mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-2(456.414mm,323.611mm) on Multi-Layer And Track (457.684mm,322.849mm)(457.684mm,324.381mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-3(456.414mm,321.071mm) on Multi-Layer And Track (455.144mm,320.309mm)(455.144mm,321.833mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-3(456.414mm,321.071mm) on Multi-Layer And Track (455.652mm,319.801mm)(457.176mm,319.801mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-3(456.414mm,321.071mm) on Multi-Layer And Track (455.652mm,322.341mm)(457.176mm,322.341mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-3(456.414mm,321.071mm) on Multi-Layer And Track (457.684mm,320.309mm)(457.684mm,321.841mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-4(456.414mm,318.531mm) on Multi-Layer And Track (455.144mm,317.769mm)(455.144mm,319.293mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-4(456.414mm,318.531mm) on Multi-Layer And Track (455.652mm,317.261mm)(457.176mm,317.261mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-4(456.414mm,318.531mm) on Multi-Layer And Track (455.652mm,319.801mm)(457.176mm,319.801mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.17mm < 0.254mm) Between Pad XP1-4(456.414mm,318.531mm) on Multi-Layer And Track (457.684mm,317.769mm)(457.684mm,319.301mm) on F.SilkS [F.SilkS] to [F.Mask] clearance [0.17mm]
+Rule Violations :38
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00
